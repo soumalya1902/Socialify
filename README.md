@@ -56,7 +56,14 @@ To setup the project locally, fork and clone it, then follow these simple steps:
   4. Commit your changes
      ```sh
      git add .
-     git commit -m "Add your commit message here"
+     git commit -m "Add your commit message here" 
+     ```
+  5. Push the branch
+     ```sh
+     git push origin feature
+     ```
+  6. Open a Pull Request.
+
 
 # Getting Started with Create React App
 
@@ -128,10 +135,3 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
-
-     ```
-  5. Push the branch
-     ```sh
-     git push origin feature
-     ```
-  6. Open a Pull Request.
